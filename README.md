@@ -8,6 +8,7 @@ The javascript-app for cooperative development with dependent library
 - app
 - javascript
 - starter
+- template
 
 ---
 
