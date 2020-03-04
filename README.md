@@ -9,6 +9,13 @@ The javascript-app for cooperative development with dependent library
 - app
 - javascript
 - starter
+- template
+
+---
+## Direct ancestors
+- [-***app***: javascript](https://github.com/softspiders/javascript)
+
+---
 
 ## Author
 
