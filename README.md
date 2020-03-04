@@ -4,8 +4,6 @@
 
 The javascript-app for cooperative development with dependent library
 
-UNDER DEVELOPMENT
-
 ## Feature tags
 
 - app
