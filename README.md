@@ -5,10 +5,17 @@
 The javascript-app for cooperative development with dependent library
 
 ## Feature tags
-
 - app
 - javascript
 - starter
+
+---
+
+## Direct ancestors
+
+[-***app***: javascript](https://github.com/softspiders/javascript)
+
+---
 
 ## Author
 
